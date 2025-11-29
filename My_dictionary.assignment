@@ -1,0 +1,13 @@
+student = {
+    "name": "Bilel",
+    "age": 20,
+    "course": "ICT Management",
+    "school": "School of Computing and Informatics"
+}
+
+print(student["name"])
+print(student["course"])
+
+student["grade"] = "A"
+
+print(student)
